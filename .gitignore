@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# 原始数据文件（体积过大，超过 GitHub 100MB 限制）
+data/*.csv
+
+# 子文件夹（旧Flutter项目，不纳入此仓库）
+new_system_based_on_priority_queue/
